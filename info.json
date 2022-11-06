@@ -1,0 +1,200 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://menglingji.vercel.app/",
+            "path": "index.html",
+            "saved": true,
+            "size": 11275,
+            "children": [
+                {
+                    "url": "https://menglingji.vercel.app/img/7.jpg",
+                    "path": "img/7.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://menglingji.vercel.app/img/4.jpg",
+                    "path": "img/4.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://menglingji.vercel.app/img/5.jpg",
+                    "path": "img/5.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://menglingji.vercel.app/img/2.jpg",
+                    "path": "img/2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://menglingji.vercel.app/img/3.jpg",
+                    "path": "img/3.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://menglingji.vercel.app/img/6.jpg",
+                    "path": "img/6.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://menglingji.vercel.app/img/yinghua.png",
+                    "path": "img/yinghua.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/npm/sweetalert2",
+                    "saved": false
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://menglingji.vercel.app/js/index.js",
+                    "path": "js/index.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://menglingji.vercel.app/js/main.js",
+                    "path": "js/main.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://menglingji.vercel.app/js/anime.js",
+                    "path": "js/anime.js",
+                    "saved": true,
+                    "size": 14361,
+                    "children": []
+                },
+                {
+                    "url": "https://menglingji.vercel.app/js/GalMenu.js",
+                    "path": "js/GalMenu.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://menglingji.vercel.app/css/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 3576,
+                    "children": [
+                        {
+                            "url": "https://menglingji.vercel.app/img/background.jpg",
+                            "path": "img/background.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://menglingji.vercel.app/css/GalMenu.css",
+                    "path": "css/GalMenu.css",
+                    "saved": true,
+                    "size": 2874,
+                    "children": [
+                        {
+                            "url": "https://menglingji.vercel.app/img/1.jpg",
+                            "path": "img/1.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://menglingji.vercel.app/favicon.ico",
+                    "saved": false
+                },
+                {
+                    "url": "https://menglingji.vercel.app/media/giegie.mp3",
+                    "path": "media/giegie.mp3",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "menglingji-vercel-app-49l3azfa",
+    "info": {
+        "remark": [],
+        "title": "梦灵姬的发布页",
+        "domain": "menglingji.vercel.app",
+        "origin": "https://menglingji.vercel.app",
+        "ip": "76.76.21.93",
+        "main": "index.html",
+        "url": "https://menglingji.vercel.app/",
+        "totalSize": "32.1 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://menglingji.vercel.app/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://menglingji.vercel.app/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "accept-ranges": "bytes",
+                "access-control-allow-origin": "*",
+                "age": "907637",
+                "cache-control": "public, max-age=0, must-revalidate",
+                "content-disposition": "inline",
+                "content-length": "11683",
+                "content-type": "text/html; charset=utf-8",
+                "date": "Sun, 06 Nov 2022 12:35:46 GMT",
+                "etag": "\"20caf834ece96afdbe59513374110d6a\"",
+                "server": "Vercel",
+                "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+                "x-vercel-cache": "HIT",
+                "x-vercel-id": "hnd1:hnd1::djgwg-1667738146303-f8ed9044065a",
+                "connection": "close"
+            }
+        },
+        "time": {
+            "start": "2022-11-06T12:35:46.094Z",
+            "end": "2022-11-06T12:35:47.519Z"
+        }
+    },
+    "options": {
+        "url": "https://menglingji.vercel.app/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}

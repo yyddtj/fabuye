@@ -1,0 +1,1 @@
+(function hitokoto(){var hitokoto="无论是身在二次元还是三次元，都要幸福的活下去 —梦灵";var dom=document.querySelector('#hitokoto');Array.isArray(dom)?dom[0].innerText=hitokoto:dom.innerText=hitokoto;})()
